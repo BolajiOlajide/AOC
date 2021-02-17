@@ -1,6 +1,4 @@
 # https://adventofcode.com/2020/day/2
-import itertools
-
 
 def part1(data):
     count = 0
