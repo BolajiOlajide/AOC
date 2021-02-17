@@ -30,7 +30,7 @@ def part2(data):
 
 
 def fetch_data_from_source():
-    with open('day_two/data.txt', 'r') as file:
+    with open('day_2/data.txt', 'r') as file:
         return list(map(lambda x: x.rstrip().split(' '), file))
 
 if __name__ == '__main__':
